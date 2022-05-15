@@ -1,3 +1,4 @@
+#Add FROM
 FROM centos:7.0
 LABEL maintainer="Ahmed F <ahmed.fathy@gmail.com>"
 LABEL role="Nginx with LUA"
