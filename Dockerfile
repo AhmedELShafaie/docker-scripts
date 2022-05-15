@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 #Add FROM
 FROM centos:8.0
-=======
-FROM centos:7.0
->>>>>>> parent of 1183c46 ( Modify Alpine image TO Centos)
 LABEL maintainer="Ahmed F <ahmed.fathy@gmail.com>"
 LABEL role="Nginx with LUA"
 ENV DEVEL_KIT_MODULE_VERSION="0.3.1"
