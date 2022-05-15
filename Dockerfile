@@ -1,4 +1,4 @@
-FROM alpine:3.15
+FROM centos:7.0
 LABEL maintainer="Ahmed F <ahmed.fathy@gmail.com>"
 LABEL role="Nginx with LUA"
 ENV DEVEL_KIT_MODULE_VERSION="0.3.1"
